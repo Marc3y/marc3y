@@ -7,14 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/marcey____" target="blank"><img src="https://img.shields.io/twitter/follow/marcey____?logo=twitter&style=for-the-badge" alt="marcey____" /></a> </p>
 
-- 🔭 I’m currently working on [MarceyBot v4](https://marceybot.de/)
-
-- 👨‍💻 All of my projects are available at [nowhere](nowhere)
-
-- 📝 I regularly write articles on [my ass](my ass)
-
-- ⚡ Fun fact **fuck my ass**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marcey____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcey____" height="30" width="40" /></a>
