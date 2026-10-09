@@ -7,10 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/marcey____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcey____" height="30" width="40" /></a>
-<a href="https://instagram.com/marcey____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcey____" height="30" width="40" /></a>
+<a href="https://instagram.com/marcus.07__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcey____" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/marcey1514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marcey1514" height="30" width="40" /></a>
-<a href="https://discord.gg/8FbeeNEbZ5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8FbeeNEbZ5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
