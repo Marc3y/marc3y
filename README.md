@@ -2,8 +2,6 @@
 
 Ich gehe aufs Technische Gymnasium in Heilbronn (Profil IT) und mache 2027 Abi. Programmiert hab ich zum ersten Mal mit 13, damals Minecraft-Plugins. Inzwischen baue ich vor allem Backends und Web-Apps, manchmal auch was für iOS.
 
-Bei den neueren Projekten hilft mir viel KI (Claude Code). Manche Teile schreib ich selbst, und die meisten Bugs such und fix ich auch selbst. Ich will bei jedem Projekt verstehen, wie es funktioniert, sonst macht es keinen Spaß.
-
 **Woran ich gerade sitze**
 
 - **Musikplattform** ([backend](https://github.com/Marc3y/music-backend) · [frontend](https://github.com/Marc3y/music-frontend)): Songs, Beats und Projektordner hochladen, in Playlists sortieren und teilen. Express, MongoDB, MinIO als Speicher, Next.js, dazu eine iOS-App.
